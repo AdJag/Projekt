@@ -1,0 +1,2 @@
+# Projekt
+projekt pierwsze repo
